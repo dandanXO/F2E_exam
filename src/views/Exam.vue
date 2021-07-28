@@ -190,6 +190,7 @@ export default {
           text-align:left;
           padding: 20px 16px;
           .icon{
+            -webkit-filter:grayscale(1);
             padding:12px 0 ;
             max-width: 64px;
             max-height: 64px;
